@@ -14,6 +14,8 @@ public class A {
 		System.out.println("Welcome to junnos heaven");
 		
 		A a=new A();
+		a.sum();
+		a.sub();
 		
 	}
 }
